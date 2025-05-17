@@ -33,8 +33,8 @@ curl -X POST http://localhost:8080/v1/tasks \
   -d '{"title": "Купить молоко"}'
 ```
 📚 API Endpoints
-```
 REST (HTTP/JSON)
+```
 Метод	    |   Путь	           |   Описание
 POST	    |   /v1/tasks	       |   Добавить задачу
 GET	      |   /v1/tasks	       |   Список задач
